@@ -6,6 +6,10 @@
 @import "pagination";
 @import "blackBanner";
 @import "feedbacks";
+@import "bem/header";
+@import "bem/topNav";
+@import "bem/newArrivals";
+@import "checkout";
 body {
     margin: 0;
     font-family: 'Lato', sans-serif;

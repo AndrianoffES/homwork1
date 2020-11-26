@@ -1,35 +1,35 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\000034}}
 body {
   margin: 0;
   font-family: 'Lato', sans-serif; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\000039}}
 .container {
   width: 1140px;
   margin: 0 auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000314}}
 a {
   text-decoration: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000318}}
 .header {
   height: 100px;
   border-bottom: 1px solid #ececec;
   background-color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000323}}
   .header .container {
     height: inherit;
     display: flex;
     align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000329}}
   .header span {
     font-weight: 900;
     color: #f16d7f;
     margin-right: 37px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000336}}
 .logo {
   background: url(../img/logo.png) no-repeat left;
   height: 51px;
@@ -40,14 +40,14 @@ a {
   letter-spacing: 0.025em;
   color: #222222; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000349}}
 .topSearch {
   display: flex;
   height: 38px;
   border: 1px solid #e6e6e6;
   border-radius: 3px;
   overflow: hidden; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000356}}
   .topSearch div {
     width: 87px;
     background-image: linear-gradient(180deg, #f9f9f9 0%, #f5f5f5 100%);
@@ -58,10 +58,10 @@ a {
     font-weight: 300;
     letter-spacing: 0.025em;
     color: #222222; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000367}}
     .topSearch div i {
       margin-left: 8px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000372}}
   .topSearch input {
     border: none;
     width: 317px;
@@ -71,21 +71,21 @@ a {
     padding: 14px 16px;
     width: 280px;
     box-sizing: border-box; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000383}}
   .topSearch input::-moz-placeholder {
     font-size: 14px;
     line-height: 32px;
     font-weight: 300;
     letter-spacing: 0.025em;
     color: #a4a4a4; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000391}}
   .topSearch input::-ms-input-placeholder {
     font-size: 14px;
     line-height: 32px;
     font-weight: 300;
     letter-spacing: 0.025em;
     color: #a4a4a4; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003100}}
   .topSearch button {
     border: none;
     font-size: 14px;
@@ -96,7 +96,7 @@ a {
     background: white;
     width: 37px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003113}}
 .myAcc {
   width: 130px;
   height: 38px;
@@ -111,47 +111,47 @@ a {
   font-weight: 400;
   letter-spacing: 0.025em;
   color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003128}}
   .myAcc i {
     margin-left: 8px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003133}}
 .topNavi {
   height: 51px;
   background-color: #ffffff;
   display: flex;
   justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003138}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003139}}
   .topNavi a {
     font-size: 14px;
     line-height: 10.7px;
     font-weight: 700;
     color: #222222;
     margin-top: 19px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003147}}
   .topNavi a:not(last-child) {
     margin-right: 46px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003152}}
 .arrivals {
   height: 150px;
   background: #f8f3f4; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003157}}
 .newArrivals.container {
   height: inherit;
   display: flex;
   justify-content: space-between;
   align-items: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003166}}
 .newArrivals h2 {
   font-size: 24px;
   line-height: 20px;
   font-weight: 900;
   text-transform: uppercase;
   color: #f16d7f; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003174}}
 .newArrivals a {
   text-decoration: none;
   font-size: 14px;
@@ -159,12 +159,12 @@ a {
   font-weight: 300;
   text-transform: uppercase;
   color: #636363; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003182}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003183}}
 .newArrivals span {
   font-weight: 700;
   color: #f16d7f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003188}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003189}}
 .feedbackSubs {
   margin-top: 97px;
   height: 438px;
@@ -172,35 +172,35 @@ a {
   background-size: cover;
   background-position: left bottom;
   background-blend-mode: overlay; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003197}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003198}}
   .feedbackSubs .container {
     height: inherit;
     display: flex; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003203}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003204}}
 .feedbackSubsLeft,
 .feedbackSubsRight {
   width: calc(50% - 0.5px); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003209}}
 .feedbackSubsLeft {
   border-right: 1px solid white;
   display: flex;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003214}}
   .feedbackSubsLeftInside {
     display: flex;
     justify-content: space-between;
     width: 497px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003219}}
     .feedbackSubsLeftInside img {
       width: 83px;
       height: 83px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003226}}
 .feedbackContent {
   width: 386px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003229}}
   .feedbackContent > .feedbackText {
     font-size: 16px;
     line-height: 26px;
@@ -208,7 +208,7 @@ a {
     font-style: italic;
     letter-spacing: 0.025em;
     color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003237}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003238}}
   .feedbackContent > .feedbackName {
     font-size: 16px;
     line-height: 26px;
@@ -216,37 +216,37 @@ a {
     letter-spacing: 0.025em;
     color: #f16d7f;
     margin-top: 19px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003247}}
   .feedbackContent > .feedbacLocation {
     font-size: 12px;
     line-height: 14px;
     font-weight: 500;
     color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003253}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003254}}
   .feedbackContent > .feedbackSwitcher {
     width: 140px;
     margin-top: 41px;
     display: flex;
     justify-content: space-between; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003259}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003260}}
     .feedbackContent > .feedbackSwitcher > .div {
       width: 38px;
       height: 4px;
       background-color: #d6d6d6; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003264}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003265}}
       .feedbackContent > .feedbackSwitcher > .div:hover {
         width: 38px;
         height: 4px;
         background-color: #f16d7f;
         cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003276}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003277}}
 .feedbackSubsRight {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003282}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003283}}
   .feedbackSubsRight form input::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     opacity: 0.67;
@@ -256,7 +256,7 @@ a {
     font-weight: 700;
     letter-spacing: 0.025em;
     color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003292}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003293}}
     .feedbackSubsRight form input::-webkit-input-placeholder input::-webkit-input-placeholder {
       /* Chrome/Opera/Safari */
       opacity: 0.67;
@@ -266,7 +266,7 @@ a {
       font-weight: 700;
       letter-spacing: 0.025em;
       color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003303}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003304}}
     .feedbackSubsRight form input::-webkit-input-placeholder input::-moz-placeholder {
       /* Firefox 19+ */
       opacity: 0.67;
@@ -276,7 +276,7 @@ a {
       font-weight: 700;
       letter-spacing: 0.025em;
       color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003315}}
     .feedbackSubsRight form input::-webkit-input-placeholder input:-ms-input-placeholder {
       /* IE 10+ */
       opacity: 0.67;
@@ -286,7 +286,7 @@ a {
       font-weight: 700;
       letter-spacing: 0.025em;
       color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003326}}
     .feedbackSubsRight form input::-webkit-input-placeholder input:-moz-placeholder {
       /* Firefox 18- */
       opacity: 0.67;
@@ -296,19 +296,19 @@ a {
       font-weight: 700;
       letter-spacing: 0.025em;
       color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003339}}
   .feedbackSubsRight > .subsHeader {
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.025em;
     color: #222224; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003347}}
   .feedbackSubsRight > .subText {
     font-size: 14px;
     margin-bottom: 35px;
     font-weight: 700; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003353}}
   .feedbackSubsRight > form input {
     width: 334px;
     height: 46px;
@@ -320,7 +320,7 @@ a {
     padding: 0 28px;
     box-sizing: border-box;
     float: left; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003366}}
   .feedbackSubsRight > form button {
     width: 104px;
     height: 46px;
@@ -334,21 +334,21 @@ a {
     color: #ffffff;
     border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003381}}
 .footer {
   margin-top: 109px;
   margin-bottom: 89px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003385}}
   .footer .container {
     display: flex;
     justify-content: space-between;
     align-items: flex-start; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003393}}
 .footerBloks:first-child {
   width: 427px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003397}}
 .footerText1,
 .footerText2 {
   font-family: Lato;
@@ -359,7 +359,7 @@ a {
   color: #898989;
   margin-top: 40px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003407}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003408}}
 .footerBloks a {
   display: block;
   text-decoration: none;
@@ -369,7 +369,7 @@ a {
   letter-spacing: 0.025em;
   color: #898989; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003418}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003419}}
 .footerBloks h2 {
   font-size: 18px;
   line-height: 26px;
@@ -377,19 +377,19 @@ a {
   letter-spacing: 0.025em;
   color: #f16d7f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003426}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003427}}
 .copyrights {
   width: 1600px;
   height: 79px;
   background-color: #e6e6e6; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003431}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003432}}
   .copyrights .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: inherit; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003440}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003441}}
 .copyrightsLeft {
   font-size: 16px;
   line-height: 42px;
@@ -397,13 +397,13 @@ a {
   letter-spacing: 0.025em;
   color: #7a7a7a; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003448}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003449}}
 .copyrightsRigth {
   width: 191px;
   height: 32px;
   display: flex;
   justify-content: space-between; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003455}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003456}}
   .copyrightsRigth a {
     font-size: 16px;
     line-height: 42px;
@@ -416,12 +416,12 @@ a {
     display: flex;
     justify-content: center;
     align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003469}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003470}}
   .copyrightsRigth a:hover {
     background-color: #f16d7f;
     color: #f7f7f8; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003476}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003477}}
 .productMainIimgWrap {
   width: 100%;
   height: 777px;
@@ -431,11 +431,11 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003486}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003487}}
   .productMainIimgWrap > .modelImg {
     width: 597px;
     height: 724px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003491}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003492}}
   .productMainIimgWrap .leftArrowBox,
   .productMainIimgWrap .rightArrowBox {
     display: flex;
@@ -447,7 +447,7 @@ a {
     background: #d8d8d8;
     cursor: pointer; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003504}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003505}}
 .modelWrap {
   width: 1141px;
   height: 730px;
@@ -458,7 +458,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003517}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003518}}
   .modelWrapTextBlock {
     height: 330px;
     width: 597px;
@@ -467,7 +467,7 @@ a {
     margin-top: 73px;
     align-items: center;
     border-bottom: 1px solid #eaeaea; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003527}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003528}}
     .modelWrapTextBlockHeader {
       font-size: 14px;
       line-height: 24px;
@@ -476,7 +476,7 @@ a {
       border-bottom: 1px solid #eaeaea;
       width: 155px;
       position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003536}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003537}}
       .modelWrapTextBlockHeader:after {
         content: '';
         display: block;
@@ -486,7 +486,7 @@ a {
         width: 64px;
         height: 3px;
         background-color: #f16d7f; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003548}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003549}}
     .modelWrapTextBlock > .ModelName {
       font-size: 18px;
       line-height: 24px;
@@ -494,7 +494,7 @@ a {
       text-transform: uppercase;
       color: #4d4d4d;
       margin-top: 15px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003557}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003558}}
     .modelWrapTextBlock .modelDesc {
       font-size: 14px;
       line-height: 24px;
@@ -502,37 +502,37 @@ a {
       color: #5e5e5e;
       text-align: center;
       margin-top: 67px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003566}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003567}}
     .modelWrapTextBlock .modelDetails {
       height: 15px;
       width: 337px;
       display: flex;
       justify-content: space-between;
       margin-top: 28px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003573}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003574}}
       .modelWrapTextBlock .modelDetailsMaterial, .modelWrapTextBlock .modelDetailsDesigner {
         font-size: 14px;
         line-height: 24px;
         font-weight: 700;
         color: #b9b9b9; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003580}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003581}}
         .modelWrapTextBlock .modelDetailsMaterial span, .modelWrapTextBlock .modelDetailsDesigner span {
           color: #2f2f2f; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003586}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003587}}
     .modelWrapTextBlock .modelPrice {
       font-size: 24px;
       line-height: 24px;
       font-weight: 700;
       color: #f16d7f;
       margin-top: 37px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003595}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003596}}
   .modelWrap .chooseParametersWrap {
     height: 150px;
     width: 540px;
     margin-top: 62px;
     display: flex;
     justify-content: space-between; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003602}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003603}}
     .modelWrap .chooseParametersWrap select,
     .modelWrap .chooseParametersWrap input {
       width: 144px;
@@ -544,17 +544,17 @@ a {
       color: #bcbcbc;
       box-sizing: border-box;
       padding: 8px 15px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003615}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003616}}
     .modelWrap .chooseParametersWrap #chooseColor {
       padding-left: 37px;
       background: url(../img/chooseColor.jpg) no-repeat 14px white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003620}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003621}}
     .modelWrap .chooseParametersWrap h2 {
       font-size: 14px;
       line-height: 24px;
       font-weight: 700;
       color: #2f2f2f; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003631}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003632}}
   .modelWrap button {
     width: 537px;
     height: 55px;
@@ -564,14 +564,14 @@ a {
     justify-content: center;
     align-items: center;
     cursor: pointer; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003641}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003642}}
     .modelWrap button img {
       margin-right: 15px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003648}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003649}}
 .alsoLike {
   margin-top: 119px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003651}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003652}}
   .alsoLike h2 {
     margin-top: 0;
     text-align: center;
@@ -580,13 +580,13 @@ a {
     font-weight: 900;
     text-transform: uppercase;
     color: #4d4d4d; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003661}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003662}}
   .alsoLike .alsoLikeModelsWrap {
     margin-top: 60px;
     display: flex;
     justify-content: space-between; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003668}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003669}}
 .product {
   height: 364px;
   width: 261px;
@@ -594,30 +594,30 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: space-between; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003676}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003677}}
   .product .yml {
     height: 280px;
     width: 100%;
     object-fit: contain;
     background-color: #e9e9e9; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003684}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003685}}
 .product:not(:nth-child(4n)) {
   margin-right: 32px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003688}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003689}}
 .product:nth-child(n + 5) {
   margin-top: 39px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003692}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003693}}
 .product:hover {
   box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.15); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003696}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003697}}
 .product:hover .borderCover {
   display: flex; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003701}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003702}}
 .prodDesc {
   font-size: 13px;
   line-height: 1.2;
@@ -625,7 +625,7 @@ a {
   text-transform: uppercase;
   color: #222222;
   margin-top: 18px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003709}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003710}}
   .prodDesc span {
     font-size: 16px;
     line-height: 2.5;
@@ -633,7 +633,7 @@ a {
     text-transform: uppercase;
     color: #f16d7f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003722}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003723}}
 .borderCover {
   width: inherit;
   height: 280px;
@@ -641,7 +641,7 @@ a {
   display: none;
   background-color: rgba(58, 56, 56, 0.83);
   justify-content: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003730}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003731}}
   .borderCover button {
     margin-top: 98px;
     background: none;
@@ -657,7 +657,7 @@ a {
     font-weight: 700;
     color: #ffffff;
     cursor: pointer; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003746}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/ivanandrianoff\/Desktop\/\%D0\%9E\%D0\%B1\%D1\%83\%D1\%87\%D0\%B5\%D0\%BD\%D0\%B8\%D0\%B5\/\%D0\%BF\%D1\%80\%D0\%BE\%D0\%B4\%D0\%B2\%D0\%B8\%D0\%BD\%D1\%83\%D1\%82\%D0\%B0\%D1\%8F\%20\%D0\%B2\%D0\%B5\%D1\%81\%D1\%80\%D1\%82\%D0\%BA\%D0\%B0\/\%D1\%83\%D1\%80\%D0\%BE\%D0\%BA\%201\/wear\/styles\/style\.scss}line{font-family:\00003747}}
     .borderCover button img {
       margin-right: 8px; }
 
