@@ -1,0 +1,25 @@
+.b-topNav {
+    height: 51px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__linksWrap {
+        width: 680px;
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            color: #222222;
+            font-family: Lato;
+            font-size: 14px;
+            font-weight: 700;
+            font-style: normal;
+            letter-spacing: normal;
+            line-height: 26px;
+            text-decoration: none;
+        }
+    }
+
+
+}
