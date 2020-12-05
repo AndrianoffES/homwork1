@@ -1,0 +1,162 @@
+.offers-grid {
+	margin-top: 98px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: repeat(3, 1fr);
+	gap: 20px;
+	grid-template-areas:
+		"man women"
+		"man kids"
+		"accesories kids";
+
+	img {
+		height: 100%;
+		width: 100%;
+		display: block;
+	}
+
+}
+
+@media (max-width: 769px) {
+	.offers-grid {
+		grid-template-columns: 1fr;
+		grid-template-rows: initial;
+		gap: 30px;
+		grid-template-areas:
+			"man"
+			"women"
+			"kids"
+			"accesories"
+	}
+}
+
+.offersLable {
+	position: absolute;
+	top: 26px;
+	left: 0px;
+}
+
+@media (max-width: 992px) {
+
+	.offersLable {
+		position: absolute;
+		bottom: 26px;
+		left: 0px;
+		top: initial;
+	}
+}
+
+.man {
+	grid-area: man;
+	position: relative;
+
+	.menLable {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		width: 175px;
+		height: 82px;
+		background-color: #ffffff;
+
+		@media (max-width: 450px) {
+			height: auto;
+			width: auto;
+			padding: 10px;
+			padding-left: initial;
+		}
+
+
+	}
+}
+
+.women {
+	grid-area: women;
+	position: relative;
+
+	.womenLable {
+
+		width: 162px;
+		height: 82px;
+		background-color: #ffffff;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		@media (max-width: 450px) {
+			height: auto;
+			width: auto;
+			padding: 10px;
+			padding-left: initial;
+		}
+
+
+	}
+}
+
+.kids {
+	grid-area: kids;
+	position: relative;
+
+	.kidsLable {
+		width: 180px;
+		height: 82px;
+		background-color: #ffffff;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		@media (max-width: 450px) {
+			height: auto;
+			width: auto;
+			padding: 10px;
+			padding-left: initial;
+		}
+
+
+	}
+}
+
+.accesories {
+	grid-area: accesories;
+	position: relative;
+
+	.accesoriesLable {
+		width: 225px;
+		height: 82px;
+		background-color: #ffffff;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: flex-start;
+		@media (max-width: 450px) {
+			height: auto;
+			width: auto;
+			padding: 10px;
+			padding-left: initial;
+		}
+
+
+	}
+}
+
+.textLableTop {
+	margin-left: 19px;
+	font-size: 18px;
+	font-weight: 700;
+
+	@media (max-width: 450px) {
+		font-size: 14px;
+	}
+}
+
+.textLableBot {
+	margin-left: 19px;
+	font-size: 30px;
+	font-weight: 700;
+	color: #f16d7f;
+
+	@media (max-width: 450px) {
+		font-size: 20px;
+	}
+}
