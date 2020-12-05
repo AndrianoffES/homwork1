@@ -1,0 +1,43 @@
+.b-topNav {
+	height: 51px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	@media (max-width:730px) {
+		height: auto;
+	}
+
+	&__linksWrap {
+		width: 680px;
+		display: flex;
+		justify-content: space-between;
+
+		@media (max-width:730px) {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr;
+			grid-template-rows: 1fr 1fr;
+			text-align: center;
+		}
+
+		@media (max-width:350px) {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-template-rows: 1fr 1fr;
+			text-align: center;
+		}
+
+		a {
+			color: #222222;
+			font-family: Lato;
+			font-size: 14px;
+			font-weight: 700;
+			font-style: normal;
+			letter-spacing: normal;
+			line-height: 26px;
+			text-decoration: none;
+		}
+	}
+
+
+}

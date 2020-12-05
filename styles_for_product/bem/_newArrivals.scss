@@ -1,0 +1,29 @@
+.b-newArrivals {
+    height: 148px;
+    background-color: #f8f3f4;
+
+    &__wrap {
+        height: inherit;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &__title {
+            color: #f16d7f;
+            font-size: 24px;
+            font-weight: 400;
+            line-height: 20px;
+        }
+
+        &__links a {
+            color: #636363;
+            font-size: 14px;
+            font-weight: 700;
+            line-height: 20px;
+            text-decoration: none;
+        }
+        &__links a:last-child{
+            color: $mainColorRed;
+        }
+    }
+}
