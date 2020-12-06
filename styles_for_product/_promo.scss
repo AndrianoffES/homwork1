@@ -1,0 +1,36 @@
+.promo {
+    height: 665px;
+    background: #e8e8e8;
+
+    .container {
+        height: inherit;
+        background: url(../img/image_frame_84.jpg) no-repeat right bottom;
+		background-size: contain;
+        display: flex;
+        align-items: center;
+
+        .textPromo {
+            border-left: 12px solid #f16d7f;
+            font-size: 40px;
+            font-weight: 400;
+			@media(max-width:524px){
+			margin-bottom: 480px;
+			}
+			@media(max-width:335px){
+			margin-bottom: 380px;
+			}
+
+            .textTop {
+                padding-left: 12px;
+            }
+
+            .textBottom {
+                padding-left: 12px;
+                span{
+                    color: #f16d7f;
+                    letter-spacing: 1px;
+                }
+            }
+        }
+    }
+}

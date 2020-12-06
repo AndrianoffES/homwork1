@@ -1,0 +1,149 @@
+.checkout {
+    margin-top: 89px;
+}
+
+.btnCheckout {
+    color: #222222;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none !important;
+}
+
+.cardBorderNone {
+    border: none;
+}
+
+.card-headerBorderNone {
+    border-bottom: 1px solid #eaeaea;
+    background: none;
+     padding: 14px 16px;
+}
+
+.shippingAdressWrap {
+    display: flex;
+    justify-content: space-between;
+	@media(max-width:768px){
+		display: block;
+	}
+}
+
+.guestOrRegisterWrap {
+    width: 260px;
+
+
+    h3 {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    span {
+        color: #b3b2b2;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    p {
+        margin-top: 33px;
+        color: #b3b2b2;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    .checkboxWrap {
+        margin-top: 34px;
+
+        input {
+            margin-right: 14px;
+        }
+    }
+
+    .checkbox2Wrap {
+        margin-bottom: 33px;
+
+        input {
+            margin-right: 14px;
+        }
+    }
+
+    button {
+        width: 180px;
+        height: 50px;
+        border: 1px solid #eaeaea;
+        background-color: #ffffff;
+    }
+}
+
+.loginForm {
+    width: 390px;
+	@media(max-width:768px){
+		margin-top: 30px;
+	}
+
+    h3 {
+        font-size: 13px;
+        font-weight: 400;
+    }
+
+    span {
+        color: #b3b2b2;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+
+    }
+
+    .loginInputsWrap {
+        margin-top: 27px;
+
+        .tetxTitle {
+            font-size: 13px;
+            font-weight: 400;
+
+        }
+
+
+        span {
+            color: #ff0d0d;
+            font-size: 13px;
+            font-weight: 400;
+            line-height: 20px;
+        }
+
+        input {
+            margin-top: 16px;
+            margin-bottom: 22px;
+            width: 390px;
+            height: 45px;
+            border: 1px solid #eaeaea;
+            background-color: #ffffff;
+			@media(max-width:440px){
+				width: auto;
+			}
+        }
+
+    }
+
+    .loginBtnWrap {
+        margin-top: 32px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 20px;
+
+        button {
+            width: 180px;
+            height: 50px;
+            border: 1px solid #eaeaea;
+            background-color: #ffffff;
+            color: #4a4a4a;
+            font-family: Lato;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    }
+}
